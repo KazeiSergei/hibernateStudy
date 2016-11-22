@@ -10,6 +10,7 @@
         <property name="connection.password">sergei</property>
         <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="swow_sql">true</property>
+        <property name="hibernate.connection.autocommit">true</property>
         <mapping class="com.courses.hibernate.models.Subject"/>
     </session-factory>
 
