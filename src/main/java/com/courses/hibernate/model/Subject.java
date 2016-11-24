@@ -1,4 +1,4 @@
-package com.courses.hibernate.models;
+package com.courses.hibernate.model;
 
 import javax.persistence.*;
 

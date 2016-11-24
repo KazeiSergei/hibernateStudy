@@ -1,7 +1,7 @@
 package com.courses.hibernate.dao.interfaces;
 
 
-import com.courses.hibernate.models.Subject;
+import com.courses.hibernate.model.Subject;
 
 import java.util.List;
 
